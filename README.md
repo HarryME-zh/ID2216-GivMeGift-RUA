@@ -14,7 +14,6 @@ In the Native app folder, the request is sent as a http request in java. The fil
 
 The following are the example figures:
 
-<div align=center><img width="200" height="400" alt="Web app Amazon API" src="https://github.com/Mr-Hongyi/ID2216-GivMeGift-RUA/blob/master/Images/api.jpeg"/></div>
+<div style="width:450px"><img width="200" height="400" alt="Web app Amazon API" src="https://github.com/Mr-Hongyi/ID2216-GivMeGift-RUA/blob/master/Images/api.jpeg"/>
 
-
-<div align=center><img width="200" height="400" alt="Native app Amazon API" src="https://github.com/Mr-Hongyi/ID2216-GivMeGift-RUA/blob/master/Images/api_native.png"/></div>
+<img width="200" height="400" alt="Native app Amazon API" src="https://github.com/Mr-Hongyi/ID2216-GivMeGift-RUA/blob/master/Images/api_native.png"/></div></div>
